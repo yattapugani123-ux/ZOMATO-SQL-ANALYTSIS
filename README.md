@@ -143,7 +143,7 @@ online_orders,
 book_table,rating FROM ZOMATO
     WHERE online_orders = 1 AND book_table = 1 AND rating >='4.0';
 ```
-**THE END PROJECT**
+**THE END**
 
 
 
