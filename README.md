@@ -146,10 +146,10 @@ book_table,rating FROM ZOMATO
 **THE END**
 
 **Core Project Stats**
-##Dataset Size: 148
-##Restaurants.Average Rating: $3.63 / 5.0$.
-##Average Cost for Two: $418$.
-##Most Popular Restaurant: Empire Restaurant ($4,884$ votes).**
+- Dataset Size: 148
+- Restaurants.Average Rating: $3.63 / 5.0$.
+- Average Cost for Two: $418$.
+- Most Popular Restaurant: Empire Restaurant ($4,884$ votes).**
 
 
 
